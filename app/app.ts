@@ -13,5 +13,4 @@ form.addEventListener('submit', (event) => {
   event.preventDefault();
 
     negociacaoController.adiciona();
-  
 });
